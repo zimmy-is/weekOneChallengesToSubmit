@@ -1,19 +1,3 @@
-// let numb = 20
-
-// if (numb >= 11 && numb < 20 && numb % 4 == 0){
-//     console.log(`The number ${numb} is in the teens, and it's an even number`)
-// }else if (numb < 10 && numb >= 1 && numb % 4 == 0){
-//     console.log(`The number ${numb} is a single digit, and it's an even number`)
-    
-// }if (numb >= 11 && numb < 20 && numb % 4 != 0){
-//     console.log(`The number ${numb} is in the teens, and it's an odd number`)
-// }
-// else if (numb < 10 && numb >= 1 && numb % 4 != 0){
-//     console.log(`The number ${numb} is a single digit, and it's an odd number`)   
-// }else{
-//     console.log(`The number ${numb} is 20 or over`)
-// }
- 
 let num1 = 16
 let num2 = 15
 let sumNum = num1 + num2
